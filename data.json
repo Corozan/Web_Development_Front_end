@@ -1,0 +1,26 @@
+{
+    "c1":{
+        "Name":"Nayank",
+        "Age":21,
+        "Hobby":"Sleep"
+    },
+
+    "c2":{
+        "Name":"Sharanabasu",
+        "Age":22,
+        "Hobby":"Coding"
+    },
+
+    "c3":{
+        "Name":"Chetan",
+        "Age":21,
+        "Hobby":"Read"
+    },
+
+    "c4":{
+        "Name":"HULI",
+        "Age":22,
+        "Hobby":"Coding"
+    }
+    
+}
